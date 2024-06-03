@@ -11,6 +11,6 @@ Bei Problemen oder Fragen, die sich nicht anhand des Factsheets ausräumen lasse
 * [VDV-Dokumentation](https://www.vdv.de/ip-kom-oev.aspx)
 * Beispiel-Requests
   * [Trip Request](https://www.mobidata-bw.de/data/TripRequest.txt)
-  * [Stop Event Request]([https://www.mobidata-bw.de/data/TripRequest.txt](https://www.mobidata-bw.de/data/StopEventRequest.txt)
-  * [Location Information Request]([https://www.mobidata-bw.de/data/TripRequest.txt](https://www.mobidata-bw.de/data/LocationInformationRequest.txt))
-  * [Trip Information Request]([https://www.mobidata-bw.de/data/TripRequest.txt](https://www.mobidata-bw.de/data/TripInformationRequest.txt))
+  * [Stop Event Request](https://www.mobidata-bw.de/data/TripRequest.txt](https://www.mobidata-bw.de/data/StopEventRequest.txt)
+  * [Location Information Request](https://www.mobidata-bw.de/data/TripRequest.txt](https://www.mobidata-bw.de/data/LocationInformationRequest.txt))
+  * [Trip Information Request](https://www.mobidata-bw.de/data/TripRequest.txt](https://www.mobidata-bw.de/data/TripInformationRequest.txt))
